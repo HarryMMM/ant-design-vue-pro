@@ -1,5 +1,5 @@
 <template>
-  <div class="container">Footer</div>
+  <div class="container">Ant Design Vue Pro ©2020 Created by Harry</div>
 </template>
 
 <script>
