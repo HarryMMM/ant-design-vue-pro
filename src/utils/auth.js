@@ -1,5 +1,5 @@
 export function getCurrentAuthority() {
-  return ["admin"];
+  return ["user"];
 }
 export function isLogin() {
   let auths = getCurrentAuthority();
